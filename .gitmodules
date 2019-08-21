@@ -1,0 +1,3 @@
+[submodule "madflour"]
+	path = madflour
+	url = https://github.com/viernes/madflour.git
